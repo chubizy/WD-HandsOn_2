@@ -1,18 +1,29 @@
-.header {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 3rem;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
 
-    & a {
-        gap: 5rem;
-    }
+
+.header {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 2rem;
+    padding: 1rem;
+    z-index: 1;
+
 
     & .button {
-        color: rgb(198, 225, 248);
-        background: rgba(0, 225, 255, 0.541);
-        border-radius: 5px;
+        color: rgb(129, 0, 168);
+        border-bottom: 1px solid rgb(107, 48, 112);
         padding: 0.3rem;
+
+        &:hover {
+            background: rgba(167, 75, 253, 0.199);
+            border-radius: 50px;
+        }
     }
 
 }

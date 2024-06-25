@@ -51,21 +51,22 @@ Description of the project in details.
 Guiding Question:
 - What is the project?
 
-This project is to showcase the different designs and animations of header and and footer using html and external cascading style sheet
+This hands on is about implementing heros and class. Hero is a large image with a text that can be design using html and css. 
 - Whats the purpose?
 
-To practice and familiarize the variation of properties and values in HTML and Css. It also aim to enhance our skills in writing code.
+To have mastery in deplying pages and to practice coding skills especially in using heroes.
+
 - What are key components?
 
-Static header: This five header shows different designs in a static mode, means that when you hover the mouse over the specific design, icon, or navigation, there is no movement that will happen. The header is located at the top of the page which is easily located, and most of the information about the web page like Home, About Us, and Email is place in here.
-Animated header: In this, you will see the uniqueness of the designs with animation which enable the design to be interactive and responsive.
+Hero: It is an large image usually can be a background image or image that is inserted in html.
 
-Static footer: This five footer designs shows in a static mode, means that when you hover the mouse over the specific design, icon, or navigation, will have no movement or action. The footer is placed at the bottom of the page where Copyright and Website legal policies, and social media icons can be found.
-Animated Footer: In this, you will see the uniqueness of the designs with animation which enable the design to be interactive and responsive.
+Static class: It is a list content summary of heroes ins a static mode.
+
+Animated Class: It is an naimated list content summary of heroes
 
 - What technology used and how it is used?
 
-This project is consist of HtML (Hypertext markup Language) is a main tool in creating web pages. Along here is the cascading style sheet where you can enhance and add different designs and animation. It also serve as the color to HTML
+This project is consist of HtML (Hypertext markup Language) is a main tool in creating web pages. Along here is the cascading style sheet where you can enhance and add different designs and animation. It also serve as the color to HTML.
 
 
 <div align="center">

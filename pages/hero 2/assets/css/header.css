@@ -17,16 +17,16 @@
 
     & .button {
         color: rgb(32, 30, 31);
-        border-bottom: 1px solid rgb(0, 255, 179);
+        border-bottom: 1px solid rgb(255, 0, 128);
         padding: 0.3rem;
         background: white;
         
 
         &:hover {
-            background: rgb(0, 0, 0);
-            color: aliceblue;
+            background: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
             border-radius: 50px;
-            box-shadow: 2px 5px 2px whitesmoke;
+            box-shadow: 2px 5px 2px rgb(0, 0, 0);
             
             
         }

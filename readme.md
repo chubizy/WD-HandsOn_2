@@ -5,19 +5,27 @@
 <br />
 <div align="center">
   <a href="https://github.com/chubizy/">
-  <h3 align="center">Hi, there! It's IT0043L | Web design</h3>
+  </a>
+<!-- TODO: Change Title to the name of the title of your Project -->
+  <h3 align="center">Header and Footer</h3>
 </div>
+<!-- TODO: Make a short description -->
+<div align="center">
   Welcome! This inlcude the projects, seatworks, and hands on anctivities on Web Design.
 </div>
 
 <br />
 
+<!-- TODO: Change the zyx-0314 into your github username  -->
+<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
+![](https://visit-counter.vercel.app/counter.png?page=chubizy/WD-SeatW3)
 
 ---
 
 <br />
 <br />
 
+<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -45,57 +53,69 @@
 
 ## Overview
 
+<!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
 
 Guiding Question:
 - What is the project?
 
-This hands on is about implementing heros and class. Hero is a large image with a text that can be design using html and css. 
+This hands-on is about a large images with text that can be inserted via HTML and edit using css. 
+
 - Whats the purpose?
 
-To have mastery in deplying pages and to practice coding skills especially in using heroes.
+To practice and familiarize the variation of properties and values in HTML and Css. It also aim to enhance our skills in writing code and practice in deploying.
 
 - What are key components?
 
-Hero: It is an large image usually can be a background image or image that is inserted in html.
+Hero: The heroes are from the cartoon movie "The Incredibles" where the family of five has a superpower. Along with this are the information about themselves.
 
-Static class: It is a list content summary of heroes ins a static mode.
+Card gallery: This contain the list of summary of the heroes. Tha card gallery has static and animated part. 
 
-Animated Class: It is an naimated list content summary of heroes
-
-- What technology used and how it is used?
-
+- What technology used and how it is used
 This project is consist of HtML (Hypertext markup Language) is a main tool in creating web pages. Along here is the cascading style sheet where you can enhance and add different designs and animation. It also serve as the color to HTML.
 
+### Key Components
+<!-- TODO: List of Key Components -->
+<!-- The following are just sample -->
+- Website with pages
 
-<div align="center">
- 
+
+### Technology
+<!-- TODO: List of Technology Used -->
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
  Currently learning HTML, CSS, and JavaSript
 
- </div>
- 
- <hr/>
- 
+```
+WD-ProjectName
+└─ assets
+|   └─ css
+|   |   └─ style.css
+|   └─ img
+|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   └─ js
+|       └─ script.js
+└─ pages
+|  └─ pageName
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+└─ index.html
+└─ readme.md
+```
 
-<h2 align="center">Languages</h2>
-<br/>
-<div align="center">
-    C++   HTML    CSS<br>
-</div>
+## Resources
 
-<br/>
-<hr/>
-
-  <br/><br/><br/>
-</div>
-
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
+<!-- TODO: Add References -->
+| Title | Purpose | Link |
+|-|-|-|
+| Color | Color picker | https://imagecolorpicker.com/ |
+|-|-|-|
+| Information | Info about heroes | https://disney.fandom.com/wiki/The_Disney_Wiki |

@@ -16,12 +16,13 @@
 
 
     & .button {
-        color: rgb(129, 0, 168);
-        border-bottom: 1px solid rgb(107, 48, 112);
+        color: azure;
+        border-bottom: 1px solid rgb(251, 190, 255);
         padding: 0.3rem;
+        font-weight: 600;
 
         &:hover {
-            background: rgba(167, 75, 253, 0.199);
+            background: rgba(137, 75, 253, 0.493);
             border-radius: 50px;
         }
     }

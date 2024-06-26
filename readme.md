@@ -7,7 +7,7 @@
   <a href="https://github.com/chubizy/">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Header and Footer</h3>
+  <h3 align="center">Hero & Class</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -117,5 +117,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Color | Color picker | https://imagecolorpicker.com/ |
-|-|-|-|
 | Information | Info about heroes | https://disney.fandom.com/wiki/The_Disney_Wiki |
+| Photos | Background | https://www.canva.com/ |

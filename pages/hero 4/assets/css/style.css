@@ -61,6 +61,18 @@ section .heropic4 {
     padding-top: 20rem;
 }
 
+.footer {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    align-self: center;
+    height: 100vh;
+    color: rgb(9, 68, 46);
+    padding: 1.5rem;
+    gap: 0.3rem;
 
+}
 
 

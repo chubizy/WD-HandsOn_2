@@ -82,6 +82,20 @@ body {
     
 }
 
+.footer {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    align-self: center;
+    height: 100vh;
+    color: rgb(0, 40, 75);
+    padding: 1.5rem;
+    gap: 0.3rem;
+
+}
+
 
 
 

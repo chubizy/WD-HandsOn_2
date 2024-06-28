@@ -13,7 +13,8 @@
     gap: 2rem;
     padding: 1rem;
     z-index: 1;
-
+    position: sticky;
+    top: 0;
 
     & .button {
         color: rgb(32, 30, 31);

@@ -10,58 +10,147 @@ body {
     background: rgb(0, 0, 0);
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
-    height: 100vh;
+
+    
 }
 
-.middleInfoCG {
-    position: absolute;
+
+
+.cardG {
     display: flex;
     flex-direction: column;
-    gap: 1.2rem;
-    justify-content: center;
-    align-items: flex-start;
-    align-content: space-around;
-    align-self: flex-start;
-    height: 100vh;
     padding: 3rem;
 
+    .title {
+        color: aqua;
+        font-size: 110px;
+        letter-spacing: 0.5rem;
+    }
 
-    font-size: large;
-    text-align: justify;
-    color: rgb(178, 217, 219);
-   
-    & > h1 {
-        font-size: 150px;
+    .subtitle {
+        color: aqua;
+        display: flex;
+        padding-left: 20rem;
+    }
+}
+
+.staticCard {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    padding-left: 15rem;
+    
+    
+    & > .description {
+        background: rgb(255, 255, 255);
+        padding: 1rem;
+        width: 304px;
+    }
+
+    & > .heroimg {
+        width: 304px;
+        height: 220px;
         
     }
 
-
-
+    
 }
 
-.wallpaperHero5 {
-    position: absolute;
-    object-fit: cover;
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
-    z-index: -1;
-}
-
-.footer {
-    position: absolute;
+.animatedCard {
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: end;
-    align-items: center;
-    align-self: center;
-    height: 100vh;
-    color: aliceblue;
-    padding: 1.5rem;
-    gap: 0.3rem;
+    align-items: end;
+    padding: 2rem;
+    padding-right: 16.5rem;
+    
+    
+    & > .description {
+        background: rgb(255, 255, 255);
+        padding: 1rem;
+        width: 304px;
+    }
 
+    & > .heroanime1 {
+        width: 304px;
+        height: 220px;
+
+        &:hover {
+            width: 404px;
+            height: 320px;
+        }
+    }
+
+    & > .heroanime2 {
+        width: 304px;
+        height: 220px;
+        
+        &:hover {
+            transform: scaleX(-1);
+        }
+    }
+
+    & > .heroanime3 {
+        width: 304px;
+        height: 220px;
+
+        &:hover {
+            border: 2px solid blueviolet;
+        }
+    }
+
+    & > .heroanime4 {
+        width: 304px;
+        height: 220px;
+
+        &:hover {
+            background: rgb(255, 255, 255);
+            padding: 0.8rem;
+        }
+    }
+
+    & > .heroanime5 {
+        width: 304px;
+        height: 220px;
+
+        &:hover {
+            filter: drop-shadow(7px 7px 7px rgb(230, 250, 255));
+        }
+    }
+
+    
 }
+
+.cardGanimated {
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    justify-content: end;
+    align-items: end;
+    position: sticky;
+    top: 0;
+
+    .title {
+        color: aqua;
+        font-size: 110px;
+        letter-spacing: 0.5rem;
+    }
+
+    .subtitle {
+        color: aqua;
+        display: flex;
+        padding-right: 20rem;
+    }
+}
+
+
+
+
+
+
+
+
 
 
 

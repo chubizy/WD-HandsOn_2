@@ -7,14 +7,16 @@
   <a href="https://github.com/chubizy/">
   </a>
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/Bloogoo_Dantic.png" alt="" width="130" height="100">
+    <img src="./assets/img/Bloogoo_Dantic.pngg" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">HERO & CLASS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Welcome! This inlcude the projects, seatworks, and hands on anctivities on Web Design.
+  Welcome!
+
+  This inlcude the projects, seatworks, and hands on anctivities on Web Design.
 </div>
 
 <br />
